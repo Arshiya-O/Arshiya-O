@@ -7,7 +7,7 @@ Hello! 👋 I'm Arshiya Obili, a fourth-year Computer Science Engineering (CSE) 
 Programming Languages:c,c++,python,javascript,jquery
 
 
-Frameworks & Technologies: ajax,django,react,unity(beginner lvl)
+Frameworks & Technologies: ajax,django,react
 
 
 Databases: sql,mongodb,php
@@ -20,4 +20,4 @@ Apart from academics and technology, I enjoy sports,dance
 
 
 Contact Information:
-Email: [arshiyaobili2003@gmail.com]
+Email: arshiyaobili2003@gmail.com
